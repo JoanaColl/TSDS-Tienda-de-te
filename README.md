@@ -11,6 +11,15 @@ Este repositorio contiene el código para el sitio web de "Tienda de Té", que o
 ### Página Principal pantallas pequeñas
 ![Captura de pantalla de la página principal](img/Capturas/cap02.png)
 
+## ¿Cómo ejecutarlo?
+
+Usando Docker ejecutar la siguiente linea
+  ```json
+    docker-compose up --build
+  ```
+
+Luego abrir el navegador y acceder a `http://localhost:8080`
+
 ## Estructura del Proyecto
 
 ### Carpetas
